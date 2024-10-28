@@ -97,10 +97,16 @@
   </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanf28&show_icons=true&locale=en&layout=compact" alt="nathanf28" /></p>
+### 📊 GitHub Stats:
+<div>
+  <p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nathanf28&show_icons=true&locale=en&layout=compact&theme=algolia" alt="Top Languages" />
+</p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=nathanf28&show_icons=true&locale=en&theme=algolia" alt="GitHub Stats" />
+</p>
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nathanf28&theme=algolia" alt="GitHub Streak" />
+</p>
+</div>
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nathanf28&show_icons=true&locale=en" alt="nathanf28" /></p>
-<p align="center"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=nathanf28&bg_color=FFFFFF&color=000000&line=000000&point=FFD700&area=true&hide_border=true" /></p>
