@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
+<h1 align="center">Hi 👋, I'm Nathan</h1> 
 <h3 align="center">Backend development isn't just my skill — it's my passion, and I’m dedicated to building solutions that last.</h3>
 <img align="center" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif" alt="Coding" width="400"/>
 
